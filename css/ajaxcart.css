@@ -1,0 +1,24 @@
+.CartHeaderContainer {
+  width: 340px;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.CartHeaderContainer .cart--empty-message {
+  text-align: center;
+}
+
+.CartHeaderContainer .cart--empty-message svg {
+  width: 60px;
+  height: 60px;
+  margin: 15px;
+}
+
+.CartHeaderContainer .cart--empty-message p {
+  font-size: 1.4rem;
+}
+
+.CartHeaderContainer .cart--empty-message p span {
+  font-size: 1.6rem;
+  font-weight: 600;
+}/*# sourceMappingURL=ajaxcart.css.map */
